@@ -1,10 +1,20 @@
-- 👋 Hi, I’m @SantanuOjha
-- 👀 I’m interested in Developing New projects using Python and JavaScript.
-- 🌱 I’m currently learning Kotlin.
-- 💞️ I’m looking to collaborate on any open source projects to provide for and gain experience and learn more about them.
-- 📫 How to reach me shantanuojha2006@gmail.com 
+💫 About Me:
+I’m a developer who loves building intelligent systems powered by Machine Learning and Deep Learning.
+With experience at the Defence Research and Development Organisation (DRDO), I’ve worked on creating impactful ML models and applying cutting-edge techniques to solve complex challenges.
 
-<!---
-SantanuOjha/SantanuOjha is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I thrive at the intersection of data, algorithms, and deployment — from experimenting with neural networks to delivering scalable, production-ready solutions.
+
+🌐 Socials:
+Instagram LinkedIn
+
+💻 Tech Stack:
+C++ Python JavaScript Java AWS Azure Firebase Google Cloud Socket.io FastAPI OpenCV Django MongoDB MySQL MicrosoftSQLServer Canva Figma NumPy Pandas scikit-learn TensorFlow PyTorch Matplotlib Keras Riot Games nVIDIA OpenGL Epic Games Xbox
+
+📊 GitHub Stats:
+
+
+
+
+
+
+🏆 GitHub Trophies
