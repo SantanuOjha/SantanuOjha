@@ -32,8 +32,9 @@ Currently, I am actively seeking Master's program opportunities to contribute to
 **Cloud & Systems:** ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat-square&logo=amazon-aws&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=flat-square&logo=google-cloud&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi) 
 
 ## 📊 GitHub Analytics
-![](https://github-readme-stats.vercel.app/api?username=SantanuOjha&theme=transparent&hide_border=true&include_all_commits=true&count_private=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=SantanuOjha&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+
+![](https://github-readme-stats.vercel.app/api?username=SantanuOjha&theme=dark&bg_color=00000000&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=SantanuOjha&theme=dark&bg_color=00000000&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🌐 Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/santanu-ojha-a52354292) [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:your.email@example.com)
